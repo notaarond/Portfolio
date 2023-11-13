@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "BMP388")(type "Legacy")(uri "${KIPRJMOD}/MainBoard_FootPrints/BMP388.lib")(options "")(descr ""))
+  (lib (name "EXO_BRONCO_Avionics_Sym")(type "KiCad")(uri "${KIPRJMOD}/EXO_BRONCO_Avionics_Sym.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MainBoard_FootPrints")(type "KiCad")(uri "${KIPRJMOD}/MainBoard_FootPrints")(options "")(descr ""))
+  (lib (name "Exo_Bronco_Avionics_Footprints")(type "KiCad")(uri "${KIPRJMOD}/Exo_Bronco_Avionics_Footprints.pretty")(options "")(descr ""))
+  (lib (name "ICM-20649")(type "KiCad")(uri "${KIPRJMOD}/ICM-20649.pretty")(options "")(descr ""))
+)

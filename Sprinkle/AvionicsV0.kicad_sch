@@ -1,0 +1,133 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid e63e39d7-6ac0-4ffd-8aa3-1841a4541b55)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 128.27 113.665) (size 38.735 26.035)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 2a0f1452-d65a-414e-b9de-6629cceb2995)
+    (property "Sheetname" "PYRO" (at 137.16 114.3 0)
+      (effects (font (size 5 5)) (justify left bottom))
+    )
+    (property "Sheetfile" "PYRO.kicad_sch" (at 128.27 140.2846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "AvionicsV0"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55" (page "10"))
+      )
+    )
+  )
+
+  (sheet (at 205.74 45.72) (size 38.1 25.4)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 67bc02c4-8903-4c53-b030-82afb6b77135)
+    (property "Sheetname" "Power" (at 212.6996 46.5836 0)
+      (effects (font (size 5 5)) (justify left bottom))
+    )
+    (property "Sheetfile" "Power.kicad_sch" (at 205.74 71.7046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "AvionicsV0"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 52.7558 113.5126) (size 38.1 25.4)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 948e17a4-3323-4e8b-8f06-cbf9d51cce76)
+    (property "Sheetname" "Connectors" (at 51.181 114.681 0)
+      (effects (font (size 5 5)) (justify left bottom))
+    )
+    (property "Sheetfile" "Connectors.kicad_sch" (at 52.7558 139.4972 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "AvionicsV0"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 126.365 45.085) (size 37.465 26.035)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 9f1054fd-c7d0-45b6-8fa8-08cb2a240093)
+    (property "Sheetname" "Radio" (at 133.985 45.72 0)
+      (effects (font (size 5 5)) (justify left bottom))
+    )
+    (property "Sheetfile" "Radio.kicad_sch" (at 126.365 71.7046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "AvionicsV0"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55" (page "11"))
+      )
+    )
+  )
+
+  (sheet (at 205.0796 109.855) (size 38.1 25.4)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid d0780931-fd80-4887-ae40-469dcb55b038)
+    (property "Sheetname" "Sensors" (at 209.5246 111.125 0)
+      (effects (font (size 5 5)) (justify left bottom))
+    )
+    (property "Sheetfile" "Sensors.kicad_sch" (at 205.3082 135.8646 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "AvionicsV0"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55" (page "6"))
+      )
+    )
+  )
+
+  (sheet (at 52.07 43.815) (size 38.1 25.4)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid d9ba60b6-3fda-4368-96cb-60680c4f91ef)
+    (property "Sheetname" "Avionics_MCU" (at 47.5488 44.577 0)
+      (effects (font (size 5 5)) (justify left bottom))
+    )
+    (property "Sheetfile" "AVIONICS_MCU.kicad_sch" (at 52.07 69.7996 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "AvionicsV0"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 53.34 162.56) (size 36.83 26.67) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid fe560797-7d9a-44b2-a446-e4f165a2bc7b)
+    (property "Sheetname" "Storage" (at 53.34 161.8484 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "untitled.kicad_sch" (at 53.34 189.8146 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "AvionicsV0"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55" (page "11"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

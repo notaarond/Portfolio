@@ -1,0 +1,61 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid f8c32f63-d64e-4208-a10b-0a88cfa95c5a)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 95.8088 111.0488) (size 33.02 19.05)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 1779a4fe-9c52-417c-a398-15f97b81d3f4)
+    (property "Sheetname" "GPS" (at 104.6988 112.3188 0)
+      (effects (font (size 5 5)) (justify left bottom))
+    )
+    (property "Sheetfile" "GPS.kicad_sch" (at 95.8088 130.6834 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "AvionicsV0"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/d0780931-fd80-4887-ae40-469dcb55b038" (page "9"))
+      )
+    )
+  )
+
+  (sheet (at 96.9264 69.342) (size 33.1216 19.05)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 3a3bfbd6-c616-42f1-9eef-1ca717dd3dba)
+    (property "Sheetname" "Altimiter " (at 97.6376 70.5612 0)
+      (effects (font (size 5 5)) (justify left bottom))
+    )
+    (property "Sheetfile" "Altimiter.kicad_sch" (at 96.9264 88.9766 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "AvionicsV0"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/d0780931-fd80-4887-ae40-469dcb55b038" (page "7"))
+      )
+    )
+  )
+
+  (sheet (at 164.2872 111.0996) (size 33.0708 19.05)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 5fd9cd45-83db-44e1-8378-6ef417a62416)
+    (property "Sheetname" "IMU" (at 174.9044 112.3696 0)
+      (effects (font (size 5 5)) (justify left bottom))
+    )
+    (property "Sheetfile" "IMU.kicad_sch" (at 164.6936 130.7592 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "AvionicsV0"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/d0780931-fd80-4887-ae40-469dcb55b038" (page "10"))
+      )
+    )
+  )
+)
