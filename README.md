@@ -1,4 +1,4 @@
-# A Small Collection of My Work !
+# My Small Work Collection !
 
 Some PCB Projects I've done:
 
