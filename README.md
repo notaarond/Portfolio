@@ -1,2 +1,3 @@
-# Portfolio
-some work I've done!
+# A Small Collection of My Work
+
+
