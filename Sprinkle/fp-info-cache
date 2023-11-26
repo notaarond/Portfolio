@@ -1,4 +1,4 @@
-23463363705063641
+23466763703251376
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -53522,6 +53522,13 @@ Radio Module
 17
 17
 Exo_Bronco_Avionics_Footprints
+SON127P600X800X95-8N
+
+
+0
+8
+8
+Exo_Bronco_Avionics_Footprints
 SOT32-6 TP6841S6-TP6841S6-A
 5V Switching Regulator TP6841S6-A
 
@@ -61011,6 +61018,13 @@ Footprint for BMP390 Altimeter
 0
 10
 10
+MainBoard_FootPrints
+SON127P600X800X95-8N
+
+
+0
+8
+8
 MainBoard_FootPrints
 SOT230P700X180-4N
 SOT-223_2021

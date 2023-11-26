@@ -56,9 +56,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "courtyards_overlap|183883299|70240400|5206328f-de7d-41ba-bad8-f1768b7701cb|909b030b-fa1a-4fe8-b1ee-422b4d9e23cf"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -544,7 +542,7 @@
     ],
     [
       "fe560797-7d9a-44b2-a446-e4f165a2bc7b",
-      "Storage"
+      "Storage & Test Points"
     ],
     [
       "9f1054fd-c7d0-45b6-8fa8-08cb2a240093",
